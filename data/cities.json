@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Hue",
+      "country": "VietNam",
+      "emoji": "🇻🇳",
+      "date": "2023-11-06T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 16.500743452228505,
+        "lng": 107.57187008857728
+      },
+      "id": 12345
+    },
+    {
+      "cityName": "DaNang",
+      "country": "VietNam",
+      "emoji": "🇻🇳",
+      "date": "2023-11-07T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 15.975139012765373,
+        "lng": 108.25070620464139
+      },
+      "id": 123456
+    },
+    {
+      "cityName": "Yinggen",
+      "country": "China",
+      "emoji": "🇨🇳",
+      "date": "2023-11-07T13:56:04.544Z",
+      "notes": "",
+      "position": {
+        "lat": "19.163739661891704",
+        "lng": "109.9559246809284"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Da Nang",
+      "country": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2023-11-09T09:55:51.419Z",
+      "notes": "",
+      "position": {
+        "lat": "16.00389629566777",
+        "lng": "108.23145800367602"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Da Nang",
+      "country": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2023-11-10T09:23:12.148Z",
+      "notes": "",
+      "position": {
+        "lat": "15.982444081561514",
+        "lng": "108.24955252724602"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Da Nang",
+      "country": "Viet Nam",
+      "emoji": "🇻🇳",
+      "date": "2023-11-10T16:49:53.846Z",
+      "notes": "",
+      "position": {
+        "lat": "15.975079642089915",
+        "lng": "108.25337724812823"
+      },
+      "id": 98443206
+    }
+  ]
+}
